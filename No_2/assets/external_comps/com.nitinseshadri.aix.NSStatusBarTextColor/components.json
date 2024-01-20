@@ -1,0 +1,23 @@
+[{
+ "categoryString": "EXTENSION",
+ "dateBuilt": "2019-12-24T15:11:33-0500",
+ "nonVisible": "true",
+ "iconName": "",
+ "methods": [{
+  "deprecated": "false",
+  "name": "StatusBarTextColorDark",
+  "description": "Change Status Bar Text Color to Dark",
+  "params": []
+ }],
+ "blockProperties": [],
+ "helpUrl": "by nitinseshadri",
+ "type": "com.nitinseshadri.aix.NSStatusBarTextColor.NSStatusBarTextColor",
+ "androidMinSdk": 7,
+ "version": "1",
+ "external": "true",
+ "showOnPalette": "true",
+ "name": "NSStatusBarTextColor",
+ "helpString": "by nitinseshadri",
+ "properties": [],
+ "events": []
+}]
